@@ -1,0 +1,2 @@
+python MadDictMain.py
+pause

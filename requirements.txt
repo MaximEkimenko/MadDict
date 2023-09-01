@@ -1,0 +1,5 @@
+PyQt6~=6.5.1
+selenium~=4.10.0
+openpyxl~=3.1.2
+PyAudio~=0.2.13
+pydub~=0.25.1

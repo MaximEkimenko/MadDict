@@ -1,0 +1,2 @@
+MadDictMainWindow
+pyuic6  D:\АСУП\Python\Projects\MadDict\MadDictMainWindow.ui -o D:\АСУП\Python\Projects\MadDict\MadDictMainWindow.py
